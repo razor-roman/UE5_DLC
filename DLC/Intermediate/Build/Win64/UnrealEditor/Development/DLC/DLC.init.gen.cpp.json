@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\git\\ue5_dlc\\ue5_dlc\\dlc\\intermediate\\build\\win64\\unrealeditor\\inc\\dlc\\dlc.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\git\\ue5_dlc\\ue5_dlc\\dlc\\intermediate\\build\\win64\\dlceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\git\\ue5_dlc\\ue5_dlc\\dlc\\intermediate\\build\\win64\\unrealeditor\\development\\dlc\\definitions.dlc.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DLC.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DLC.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DLCEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DLC">
+      <UniqueIdentifier>{BD13F7B0-1FF5-33FB-B954-D72EE81E8927}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DLC\DLC.Build.cs">
+      <Filter>Source\DLC</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DLC\DLC.cpp">
+      <Filter>Source\DLC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DLC\DLC.h">
+      <Filter>Source\DLC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DLC\DLCGameInstance.cpp">
+      <Filter>Source\DLC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DLC\DLCGameInstance.h">
+      <Filter>Source\DLC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DLC\DLCGameModeBase.cpp">
+      <Filter>Source\DLC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DLC\DLCGameModeBase.h">
+      <Filter>Source\DLC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DLC\DLCLoader.cpp">
+      <Filter>Source\DLC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DLC\DLCLoader.h">
+      <Filter>Source\DLC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DLC\MapInfoAsset.cpp">
+      <Filter>Source\DLC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DLC\MapInfoAsset.h">
+      <Filter>Source\DLC</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DLC",
+			"Path": "G:\\Git\\UE5_DLC\\UE5_DLC\\DLC\\Source\\DLC.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DLCEditor",
+			"Path": "G:\\Git\\UE5_DLC\\UE5_DLC\\DLC\\Source\\DLCEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
